@@ -17,7 +17,7 @@ var person = {
 };
 
 //var fullName = person.getFullName();
-//console.log(fullName);
+//console.log("Hello");
 //var person2 = person;
 
 //person = {};
